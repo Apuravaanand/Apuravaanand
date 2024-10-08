@@ -1,7 +1,6 @@
-# Hi there 👋 I'm [Your Name]!
+# Hi there 👋 I'm APURAVA ANAND
 
-![Shiny Logo](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)
-
+![DSA GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/200w.gif)
 
 ### 🚀 About Me
 - 🌱 Learning **C++, Linux, GitHub**.
@@ -25,11 +24,12 @@
 ---
 
 ### 🌟 Featured Projects
-- [**Project 1**](https://github.com/yourusername/project-1) - Short description.
-- [**Project 2**](https://github.com/yourusername/project-2) - Short description.
+- [**Project 1**](https://github.com/yourusername/project-1) - Launch Shortly
+- [**Project 2**](https://github.com/yourusername/project-2) - Launch Shortly
 
 ---
 
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![E-Mail](https://img.shields.io/badge/-email-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
