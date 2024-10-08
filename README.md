@@ -1,6 +1,7 @@
 # Hi there 👋 I'm [Your Name]!
 
-![DSA GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Shiny Logo](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)
+
 
 ### 🚀 About Me
 - 🌱 Learning **C++, Linux, GitHub**.
