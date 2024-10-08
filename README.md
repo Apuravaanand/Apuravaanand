@@ -1,20 +1,19 @@
 # Hi there 👋 I'm [Your Name]!
 
-![GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![DSA GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ### 🚀 About Me
-- 🌱 Learning **ESP32, IoT, AI**.
-- 🔧 Working with **Python, JavaScript, Node.js, React**.
+- 🌱 Learning **C++, Linux, GitHub**.
+- 🔧 Working with **C++**.
 - 🛠 Building **open-source projects**.
-- 💬 Ask me about **IoT & Web Development**.
+- 💬 Ask me about **IoT & C++**.
 
 ---
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
