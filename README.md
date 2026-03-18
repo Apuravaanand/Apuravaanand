@@ -1,128 +1,124 @@
-<!-- HEADER / HERO SECTION -->
-<h1 align="center">🚀 Apurava Anand</h1>
-<h3 align="center">Backend-Focused Full-Stack Developer | ECE @ Tezpur University</h3>
+<!-- HERO SECTION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Apurava%20Anand&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h3 align="center">🚀 Backend-Focused Full-Stack Developer</h3>
+<p align="center">ECE @ Tezpur University • MERN • Python • DSA (C++)</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Apuravaanand&label=Profile%20Views&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Apuravaanand?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Apuravaanand?label=Total%20Stars&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Apuravaanand?label=Stars&style=flat-square" />
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Engineer;MERN+Stack+Builder;Python+Automation+Enthusiast;DSA+in+C%2B%2B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;MERN+Stack+Developer;Python+Automation+Expert;DSA+Problem+Solver;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-<!-- DASHBOARD -->
-## 📊 Professional Dashboard  
+<!-- GLASS CARD DASHBOARD -->
+## 🧭 Professional Snapshot  
 
 <p align="center">
-
-| Metric | Status |
-|------|------|
-| 👀 Profile Visits | Live Counter |
+  
+| 💡 Domain | 📌 Details |
+|----------|----------|
 | 💻 Role | Full-Stack / Backend Developer |
-| 🧠 Skills | Python, MERN, DSA (C++) |
-| ⚙️ Focus | Automation, APIs, Web Apps |
-| 🚀 Status | Actively Building |
+| 🧠 Core Skills | Python • MERN • DSA |
+| ⚙️ Focus | APIs • Automation • Scalable Systems |
+| 🚀 Status | Actively Building & Learning |
 
 </p>
 
 ---
 
-<!-- ABOUT -->
+<!-- ABOUT WITH ANIMATION -->
 ## 🧑‍💻 About Me  
 
-<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-- 🎓 Electronics & Communication Engineering Undergraduate  
+- 🎓 Electronics & Communication Engineering Student  
 - 💻 Backend-focused Full-Stack Developer  
-- 🛠️ Building real-world scalable applications  
-- ⚡ Passionate about automation & developer tools  
-- 📈 Focused on writing clean, efficient, production-ready code  
+- 🔧 Love building tools that **automate workflows**  
+- ⚡ Focused on **performance, scalability & clean code**  
 
-> I build systems that **save time, scale efficiently, and solve real problems.**
+> 💬 *"I don't just write code, I build systems that solve real problems."*
 
 ---
 
-<!-- SKILLS -->
+<!-- SKILLS WITH HOVER STYLE -->
 ## 🛠️ Tech Stack  
 
-### 🔹 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,mongodb,git,github,vscode" />
 </p>
 
-### 🔹 Web & Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb" />
-</p>
-
-### 🔹 Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/ESP32-IoT-orange?style=flat-square"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-IoT-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- PROJECTS -->
-## 📌 Featured Projects  
+<!-- PROJECT SECTION WITH CARD STYLE -->
+## 🚀 Featured Projects  
 
-🚀 **WebScraper (Python)**  
-> Automated tool to extract product images & titles from e-commerce platforms  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
+</p>
 
-🔐 **Authentication App (MERN)**  
-> Secure login system with JWT, email verification & password recovery  
+### 🔹 Highlights  
 
-📚 **Data Structures & Algorithms (C++)**  
-> Optimized implementations of core DSA concepts  
-
-🌐 **Portfolio Website**  
-> Fully responsive personal website with modern UI/UX  
+- 🔍 **WebScraper (Python)** → Extract product data automatically  
+- 🔐 **Authentication System (MERN)** → JWT + Email Verification  
+- 📚 **DSA in C++** → Optimized problem-solving implementations  
+- 🌐 **Portfolio Website** → Fully responsive modern UI  
 
 ---
 
-<!-- STATS -->
-## 📈 GitHub Analytics  
+<!-- STATS SECTION -->
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apuravaanand&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apuravaanand&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Apuravaanand&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apuravaanand&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apuravaanand&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apuravaanand&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <!-- ACTIVITY GRAPH -->
-## ⚡ Contribution Graph  
+## ⚡ Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apuravaanand&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apuravaanand&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
-<!-- CURRENTLY LEARNING -->
+<!-- LEARNING SECTION -->
 ## 🌱 Currently Learning  
 
-- 📌 Advanced Data Structures & Algorithms (C++)  
-- ⚙️ Backend Architecture & Scalability  
-- 🤖 Automation with Python  
-- ☁️ Cloud Deployment & DevOps Basics  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&width=500&lines=Advanced+DSA;Backend+Architecture;Cloud+Deployment;Automation+Engineering" />
+</p>
 
 ---
 
-<!-- CONNECT -->
+<!-- CONNECT SECTION -->
 ## 🤝 Connect With Me  
 
 <p align="center">
   <a href="https://github.com/Apuravaanand">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -134,11 +130,7 @@
 
 ---
 
-<!-- FOOTER -->
+<!-- FOOTER ANIMATION -->
 <p align="center">
-  ⭐ Open to internships, collaborations & backend-focused roles  
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00f7ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
