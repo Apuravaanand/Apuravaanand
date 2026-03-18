@@ -1,100 +1,144 @@
-# 👋 Hi, I'm Apurava Anand  
+<!-- HEADER / HERO SECTION -->
+<h1 align="center">🚀 Apurava Anand</h1>
+<h3 align="center">Backend-Focused Full-Stack Developer | ECE @ Tezpur University</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Apuravaanand&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Apuravaanand&label=Profile%20Views&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Apuravaanand?label=Followers&style=flat-square" />
   <img src="https://img.shields.io/github/stars/Apuravaanand?label=Total%20Stars&style=flat-square" />
 </p>
+
 <p align="center">
-  <b>Backend-Focused Full-Stack Developer</b> • <b>ECE @ Tezpur University</b>  
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Engineer;MERN+Stack+Builder;Python+Automation+Enthusiast;DSA+in+C%2B%2B" />
 </p>
+
 ---
+
+<!-- DASHBOARD -->
 ## 📊 Professional Dashboard  
+
+<p align="center">
+
 | Metric | Status |
 |------|------|
 | 👀 Profile Visits | Live Counter |
-| 💻 Primary Role | Full-Stack / Backend Developer |
-| 🧠 Core Skills | Python, MERN, DSA (C++) |
-| ⚙️ Focus Area | Automation, Web Apps, APIs |
-| 🚀 Current Status | Actively Building Projects |
+| 💻 Role | Full-Stack / Backend Developer |
+| 🧠 Skills | Python, MERN, DSA (C++) |
+| ⚙️ Focus | Automation, APIs, Web Apps |
+| 🚀 Status | Actively Building |
+
+</p>
+
 ---
 
+<!-- ABOUT -->
 ## 🧑‍💻 About Me  
 
-I am an **Electronics & Communication Engineering undergraduate** with a strong focus on **software development and backend engineering**.  
-I build **real-world applications** using Python, MERN stack, and automation tools, with hands-on experience in **web scripting, authentication systems, and cloud-connected projects**.
+<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I enjoy creating tools that **save developer time**, improve workflows, and scale efficiently.
+- 🎓 Electronics & Communication Engineering Undergraduate  
+- 💻 Backend-focused Full-Stack Developer  
+- 🛠️ Building real-world scalable applications  
+- ⚡ Passionate about automation & developer tools  
+- 📈 Focused on writing clean, efficient, production-ready code  
+
+> I build systems that **save time, scale efficiently, and solve real problems.**
 
 ---
 
-## 🛠️ Technical Skills  
+<!-- SKILLS -->
+## 🛠️ Tech Stack  
 
-### 🔹 Programming Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 🔹 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+</p>
 
 ### 🔹 Web & Backend  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb" />
+</p>
 
 ### 🔹 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-orange?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/ESP32-IoT-orange?style=flat-square"/>
+</p>
 
 ---
 
+<!-- PROJECTS -->
 ## 📌 Featured Projects  
 
-🔹 **WebScraper (Python)**  
-> Web scripting tool to download **public product images & titles** from e-commerce platforms for developer use  
+🚀 **WebScraper (Python)**  
+> Automated tool to extract product images & titles from e-commerce platforms  
 
-🔹 **Authentication App (MERN)**  
-> Secure login system with email verification & JWT authentication  
+🔐 **Authentication App (MERN)**  
+> Secure login system with JWT, email verification & password recovery  
 
-🔹 **Data Structures & Algorithms (C++)**  
-> Structured implementations of core DSA concepts  
+📚 **Data Structures & Algorithms (C++)**  
+> Optimized implementations of core DSA concepts  
 
-🔹 **Portfolio Website**  
-> Responsive personal portfolio built using modern web practices  
+🌐 **Portfolio Website**  
+> Fully responsive personal website with modern UI/UX  
 
 ---
 
+<!-- STATS -->
 ## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apuravaanand&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apuravaanand&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Apuravaanand&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apuravaanand&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apuravaanand&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apuravaanand&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
+<!-- ACTIVITY GRAPH -->
+## ⚡ Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apuravaanand&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<!-- CURRENTLY LEARNING -->
 ## 🌱 Currently Learning  
 
-- Advanced **Data Structures & Algorithms (C++)**
-- **Backend architecture & scalability**
-- **Automation & Python tooling**
-- **Cloud-based application deployment**
+- 📌 Advanced Data Structures & Algorithms (C++)  
+- ⚙️ Backend Architecture & Scalability  
+- 🤖 Automation with Python  
+- ☁️ Cloud Deployment & DevOps Basics  
 
 ---
 
+<!-- CONNECT -->
 ## 🤝 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Apuravaanand)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="center">
+  <a href="https://github.com/Apuravaanand">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Open to collaboration, internships, and backend-focused opportunities*
+<!-- FOOTER -->
+<p align="center">
+  ⭐ Open to internships, collaborations & backend-focused roles  
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00f7ff&height=100&section=footer"/>
+</p>
