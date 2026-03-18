@@ -1,61 +1,39 @@
-<!-- HERO SECTION -->
+<!-- TOP ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Apurava%20Anand&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Apurava%20Anand&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="center">🚀 Backend-Focused Full-Stack Developer</h3>
-<p align="center">ECE @ Tezpur University • MERN • Python • DSA (C++)</p>
-
+<!-- TYPING HERO -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Apuravaanand&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Apuravaanand?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Apuravaanand?label=Stars&style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend-Focused+Full-Stack+Developer;MERN+Stack+Builder;Python+Automation+Engineer;DSA+in+C%2B%2B;Building+Scalable+Systems" />
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- BADGES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;MERN+Stack+Developer;Python+Automation+Expert;DSA+Problem+Solver;Always+Learning+New+Tech" />
-</p>
-
----
-
-<!-- GLASS CARD DASHBOARD -->
-## 🧭 Professional Snapshot  
-
-<p align="center">
-  
-| 💡 Domain | 📌 Details |
-|----------|----------|
-| 💻 Role | Full-Stack / Backend Developer |
-| 🧠 Core Skills | Python • MERN • DSA |
-| ⚙️ Focus | APIs • Automation • Scalable Systems |
-| 🚀 Status | Actively Building & Learning |
-
+  <img src="https://komarev.com/ghpvc/?username=Apuravaanand&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/Apuravaanand?label=Followers&style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/Apuravaanand?label=Stars&style=flat-square"/>
 </p>
 
 ---
 
-<!-- ABOUT WITH ANIMATION -->
-## 🧑‍💻 About Me  
-
+<!-- ABOUT FLOW -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
-- 🎓 Electronics & Communication Engineering Student  
-- 💻 Backend-focused Full-Stack Developer  
-- 🔧 Love building tools that **automate workflows**  
-- ⚡ Focused on **performance, scalability & clean code**  
-
-> 💬 *"I don't just write code, I build systems that solve real problems."*
+<p align="center">
+  🎓 ECE @ Tezpur University • 💻 Full-Stack Developer • ⚙️ Backend Specialist  
+  <br><br>
+  I build <b>scalable backend systems</b>, <b>automation tools</b>, and <b>real-world applications</b>  
+  focused on performance, clean architecture, and developer efficiency.
+</p>
 
 ---
 
-<!-- SKILLS WITH HOVER STYLE -->
-## 🛠️ Tech Stack  
-
+<!-- TECH STACK FLOW -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,mongodb,html,css,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -64,28 +42,21 @@
 
 ---
 
-<!-- PROJECT SECTION WITH CARD STYLE -->
-## 🚀 Featured Projects  
-
+<!-- PROJECT FLOW -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 🔹 Highlights  
-
-- 🔍 **WebScraper (Python)** → Extract product data automatically  
-- 🔐 **Authentication System (MERN)** → JWT + Email Verification  
-- 📚 **DSA in C++** → Optimized problem-solving implementations  
-- 🌐 **Portfolio Website** → Fully responsive modern UI  
+<p align="center">
+  🔍 WebScraper • 🔐 MERN Auth System • 📚 DSA (C++) • 🌐 Portfolio Website
+</p>
 
 ---
 
-<!-- STATS SECTION -->
-## 📊 GitHub Analytics  
-
+<!-- STATS FLOW -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apuravaanand&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Apuravaanand&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apuravaanand&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -96,29 +67,23 @@
 ---
 
 <!-- ACTIVITY GRAPH -->
-## ⚡ Contribution Activity  
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apuravaanand&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
-<!-- LEARNING SECTION -->
-## 🌱 Currently Learning  
-
+<!-- LEARNING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&width=500&lines=Advanced+DSA;Backend+Architecture;Cloud+Deployment;Automation+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&width=600&lines=Learning+Advanced+DSA;Scaling+Backend+Systems;Cloud+Deployment;Automation+Engineering" />
 </p>
 
 ---
 
-<!-- CONNECT SECTION -->
-## 🤝 Connect With Me  
-
+<!-- CONNECT -->
 <p align="center">
   <a href="https://github.com/Apuravaanand">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -130,7 +95,7 @@
 
 ---
 
-<!-- FOOTER ANIMATION -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
