@@ -50,6 +50,3 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 <p style="font-size:15px;">
 💡 <i>I’m open to internships, freelance work, and collaborations.</i>
 </p>
-
-
----
