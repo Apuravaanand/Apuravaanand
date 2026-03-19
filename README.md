@@ -3,8 +3,6 @@
   <img src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg" />
 </p>
 
----
-
 <h3>Hi, I'm Apurava 👋</h3>
 
 <p>
