@@ -30,8 +30,8 @@
 </p>
 
 ---
+<h2 align="center">🚀 Featured Projects</h2>
 
-<!-- PROJECT GRID 3x4 -->
 <table align="center">
 <tr>
 <td align="center">
@@ -66,18 +66,6 @@
 </td>
 <td align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO9&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO10&theme=tokyonight&hide_border=true"/>
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO11&theme=tokyonight&hide_border=true"/>
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO12&theme=tokyonight&hide_border=true"/>
 </td>
 </tr>
 </table>
