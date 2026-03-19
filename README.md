@@ -45,7 +45,7 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 
 ---
 
-## 🏆 Achievements
+<h3 style="font-size:20px;">🏆 Achievements</h3>
 
 - 🚀 Built multiple full-stack applications using MERN stack  
 - 🧠 Completed Data Structures & Algorithms (C++) with problem-solving practice  
