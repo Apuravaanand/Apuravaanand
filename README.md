@@ -89,12 +89,32 @@
 </p>
 
 
+<h2 align="center">📬 Contact Me</h2>
 
-<!-- FOOTER (Animated Wave) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+  I'm open to <b>internships</b>, <b>freelance projects</b>, and <b>collaborations</b>.  
+  Feel free to reach out — let's build something impactful 🚀
 </p>
 
 <p align="center">
-  <i>🚀 Open to internships, collaborations & backend opportunities</i>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Apuravaanand">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ Focused on building scalable backend systems & real-world applications</i>
+</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=120&section=footer"/>
 </p>
