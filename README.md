@@ -46,7 +46,8 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 </ul>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZjnLfc79ni6jdcrE4syP3HwPMuWOJ7jirA&s" />
+  <img src="![Uploading image.png…]()
+" />
 </p>
 
 <p>
