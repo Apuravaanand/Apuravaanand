@@ -43,6 +43,20 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
   <li><a href="PROJECT_URL_4"><b>Portfolio Website</b></a> – Responsive UI</li>
 </ul>
 
+---
+---
+
+## 🏆 Achievements
+
+- 🚀 Built multiple full-stack applications using MERN stack  
+- 🧠 Completed Data Structures & Algorithms (C++) with problem-solving practice  
+- ⚙️ Developed backend systems with authentication & API integration  
+- 🗄️ Working knowledge of SQL and database design  
+- 🛠️ Hands-on experience with Git, Postman, and modern dev tools  
+- 📈 Continuously improving through real-world projects and learning  
+
+---
+
 <p align="center">
   <img src="https://builtin.com/sites/www.builtin.com/files/full-stack-developer.jpg" />
 </p>
