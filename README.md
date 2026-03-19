@@ -31,11 +31,56 @@
 
 ---
 
-<!-- PROJECTS (Better Visual Balance) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
-</p>
+<!-- PROJECT GRID 3x4 -->
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO1&theme=tokyonight&hide_border=true"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO2&theme=tokyonight&hide_border=true"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO3&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO4&theme=tokyonight&hide_border=true"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO5&theme=tokyonight&hide_border=true"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO6&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO7&theme=tokyonight&hide_border=true"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO8&theme=tokyonight&hide_border=true"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO9&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO10&theme=tokyonight&hide_border=true"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO11&theme=tokyonight&hide_border=true"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apuravaanand&repo=REPO12&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 
 ---
 
