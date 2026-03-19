@@ -16,7 +16,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;API+Design+%7C+Clean+Architecture;Automation+%7C+Performance+Optimization;Always+Learning+%26+Improving" />
 </p>
 
----
 
 <!-- ABOUT -->
 <p align="center">
@@ -30,26 +29,6 @@ My goal is to create systems that are <span style="color:#00F7FF;">efficient, ma
 while continuously improving my skills in <b>backend architecture and system design</b>.
 </p>
 
----
-
-<!-- TECH STACK -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,sql,git&theme=dark" />
-</p>
-
----
-
-<!-- PROJECT LINKS (CLICKABLE) -->
-<h2 align="center">🔗 Project Highlights</h2>
-
-<p align="center">
-  🔹 <a href="PROJECT_URL_1"><b>WebScraper (Python)</b></a> – Automated data extraction tool<br>
-  🔹 <a href="PROJECT_URL_2"><b>MERN Authentication System</b></a> – Secure login with JWT & email verification<br>
-  🔹 <a href="PROJECT_URL_3"><b>DSA in C++</b></a> – Optimized problem-solving implementations<br>
-  🔹 <a href="PROJECT_URL_4"><b>Portfolio Website</b></a> – Responsive modern UI<br>
-</p>
-
----
 
 <!-- PROJECT GRID -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -72,15 +51,12 @@ while continuously improving my skills in <b>backend architecture and system des
 </tr>
 </table>
 
----
-
 <!-- STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Apuravaanand&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apuravaanand&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
 
 <!-- CONTACT -->
 <h2 align="center">📬 Contact Me</h2>
@@ -101,8 +77,6 @@ while continuously improving my skills in <b>backend architecture and system des
     <img src="https://img.shields.io/badge/GitHub-Follow-111?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <i>⚡ Building scalable backend systems & real-world applications</i>
