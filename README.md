@@ -51,18 +51,5 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 💡 <i>I’m open to internships, freelance work, and collaborations.</i>
 </p>
 
-### 📈 Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apuravaanand&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apuravaanand&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apuravaanand&layout=compact&hide_border=true" height="140"/>
-</p>
 
 ---
