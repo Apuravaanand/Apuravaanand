@@ -17,8 +17,8 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 
 <ul style="font-size:15px;">
   <li>💼 Building projects and sharing code on <a href="https://github.com/Apuravaanand">GitHub</a></li>
-  <li>🔗 Connecting professionally on <a href="YOUR_LINKEDIN_URL">LinkedIn</a></li>
-  <li>📧 Reach me via <a href="mailto:YOUR_EMAIL">Email</a></li>
+  <li>🔗 Connecting professionally on <a href="https://www.linkedin.com/in/apurava-anand-/">LinkedIn</a></li>
+  <li>📧 Reach me via <a href="mailto:erapuravaanand@gmail.com">Email</a></li>
 </ul>
 
 ---
