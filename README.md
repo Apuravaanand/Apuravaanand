@@ -14,7 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;API+Design+%7C+Clean+Architecture;Automation+%7C+Performance+Optimization;Always+Learning+%26+Improving" />
 </p>
 
----
 
 <!-- ABOUT (Clean + Highlighted) -->
 <p align="center">
@@ -22,14 +21,12 @@
   focused on <span style="color:#00F7FF;">performance</span>, <span style="color:#00F7FF;">scalability</span>, and <span style="color:#00F7FF;">clean architecture</span>.
 </p>
 
----
 
 <!-- TECH STACK (Clean Icons) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,sql,git&theme=dark" />
 </p>
 
----
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
@@ -70,7 +67,6 @@
 </tr>
 </table>
 
----
 
 <!-- STATS (Aligned + Clean) -->
 <p align="center">
@@ -78,7 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apuravaanand&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
 
 <!-- CONNECT (BUTTON STYLE) -->
 <p align="center">
@@ -93,7 +88,7 @@
   </a>
 </p>
 
----
+
 
 <!-- FOOTER (Animated Wave) -->
 <p align="center">
