@@ -45,7 +45,9 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
   <li><a href="PROJECT_URL_4"><b>Portfolio Website</b></a> – Responsive UI</li>
 </ul>
 
----
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZjnLfc79ni6jdcrE4syP3HwPMuWOJ7jirA&s" />
+</p>
 
 <p>
 💡 <i>I’m open to internships, freelance work, and collaborations.</i>
