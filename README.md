@@ -44,7 +44,6 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 </ul>
 
 ---
----
 
 ## 🏆 Achievements
 
@@ -55,7 +54,6 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 - 🛠️ Hands-on experience with Git, Postman, and modern dev tools  
 - 📈 Continuously improving through real-world projects and learning  
 
----
 
 <p align="center">
   <img src="https://builtin.com/sites/www.builtin.com/files/full-stack-developer.jpg" />
