@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Apuravaanand/.../banner1.png" />
+  <img src="https://media.licdn.com/dms/image/v2/C4D12AQFGCaLUkLEHjA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1625674166174?e=2147483647&v=beta&t=8CY2Cq4w15XqAEn8ffpfJLvzGl2udI2TT7xsK9sPP6Q" />
 </p>
 
 ---
