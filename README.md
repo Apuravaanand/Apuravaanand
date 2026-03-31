@@ -39,6 +39,7 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 <ul style="font-size:15px;">
   <li><a href="https://github.com/Apuravaanand/Movies_app">Full Stack Movie App</li>
   <li><a href="https://github.com/Apuravaanand/Authentication_app">MERN Auth System</li>
+  <li><a href="https://github.com/Apuravaanand/Task_manager">Task Manager</li>
 </ul>
 
 ---
