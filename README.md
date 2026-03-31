@@ -37,9 +37,7 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 <h3 style="font-size:20px;">🚀 Featured Work</h3>
 
 <ul style="font-size:15px;">
-  <li><a href="PROJECT_URL_1"><b>WebScraper</b></a> – Data extraction tool</li>
-  <li><a href="PROJECT_URL_2"><b></b></a> – Secure authentication</li>
-  <li><a href="PROJECT_URL_3"><b>DSA in C++</b></a> – Problem-solving implementations</li>
+  <li><a href="https://github.com/Apuravaanand/Movies_app">Full Stack Movie App</li>
   <li><a href="https://github.com/Apuravaanand/Authentication_app">MERN Auth System</li>
 </ul>
 
