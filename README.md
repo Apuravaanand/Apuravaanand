@@ -16,6 +16,7 @@ and creating efficient, production-ready solutions using MERN, Python, and SQL.
 <h3 style="font-size:20px;">🌐 Find me around the web</h3>
 
 <ul style="font-size:15px;">
+  <li>💼 Personal Portfolio web <a href="https://apurava.netlify.app/service">Portfolio</a></li>
   <li>💼 Building projects and sharing code on <a href="https://github.com/Apuravaanand">GitHub</a></li>
   <li>🔗 Connecting professionally on <a href="https://www.linkedin.com/in/apurava-anand-/">LinkedIn</a></li>
   <li>📧 Reach me via <a href="mailto:erapuravaanand@gmail.com">Email</a></li>
